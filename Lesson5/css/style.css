@@ -1,0 +1,112 @@
+.container {
+    width: 1140px;
+    margin: 0px auto;
+}
+
+.top_heading {
+    width: 510px;
+    font-size: 64px;
+    color: #1F3F68;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    font-size: 16px;
+    line-height: 26px;
+    color: #1F3F68;
+}
+
+.top_text {
+    width: 425px;
+}
+
+.card-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width: 359px;
+}
+
+.heading {
+    font-size: 36px;
+    text-align: center;
+}
+
+.footer_info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main {
+    display: flex;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+div {
+    display: block;
+}
+
+h1 {
+    font-weight: 540 px;
+    font-size: 64px;
+    color: #1F3F68;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 44px;
+    text-align: center;    
+}
+
+h3 {    
+    display: block;
+    font-size: 36px;
+    text-align: center;
+    margin-block-start: lem;
+    margin-inline-end: lem;
+}
+
+h4 {
+    font-size: 20px;
+    line-height: 30px;
+    color: #1F3F68;
+}
+
+p {
+    font-size: 16px;
+line-height: 26px;
+color: #1F3F68;
+}
+
+.input {
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+
+.btn-submit {
+    background: #5A98D0;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px; 
+    text-align: center; 
+    color: #FFFFFF; 
+    text-transform: uppercase;
+}
